@@ -1,0 +1,10 @@
+.centerit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.font-decor {
+  font-family: "Tangerine", cursive;
+  font-size: 50px;
+}

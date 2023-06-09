@@ -1,0 +1,25 @@
+.centerit {
+  display: flex;
+  justify-content: center;
+}
+
+.input-group-text {
+  width: 5rem;
+  justify-content: center;
+}
+
+.decorate-font {
+  font-family: "Playfair", serif;
+}
+
+.spacing {
+  margin-top: 3rem;
+}
+
+.spacing-manage {
+  margin-left: 2rem;
+}
+
+#space-left {
+  margin-left: 2rem;
+}
